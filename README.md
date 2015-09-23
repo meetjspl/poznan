@@ -2,7 +2,9 @@
 
 ## Kiedy następny event?
 
-TBA, sponsorzy są, szukamy prelegentów.
+2015.10.05 18:00
+miejsce: biurowiec Omega, ul. Dąbrowskiego 79
+
 
 ## Zaproponuj temat!
 
