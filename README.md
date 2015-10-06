@@ -17,3 +17,11 @@ Zobaczysz pytania zanim przyjdzie pora odpowiedziec na nie na żywo.
 Link do Twojej prezentacji nie utonie gdzieś w czeluściach wątków na fb.
 
 Do zgłoszenia wystarczy temat, opis możesz podać później. Ty decydujesz kiedy prelekcja jest gotowa.
+
+## Poprzednie spotkania
+
+Lista wszystkich zakończonych prelekcji z linkami do materiałów:
+https://github.com/meetjspl/poznan/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed
+
+Lista spotkań:
+https://github.com/meetjspl/poznan/milestones
