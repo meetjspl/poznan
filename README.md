@@ -2,6 +2,11 @@
 
 ## Kiedy następny event?
 
+Jak znajdziemy trzeciego prelegenta ;)
+
+
+## Poprzednie eventy
+
 2015.10.05 18:00
 miejsce: biurowiec Omega, ul. Dąbrowskiego 79
 
