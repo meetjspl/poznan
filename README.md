@@ -2,11 +2,14 @@
 
 ## Kiedy następny event?
 
-Jak znajdziemy trzeciego prelegenta ;)
+Meet.js React
+2016.01.19 18:00
+miejsce: ul. Grobla 7 
 
 
 ## Poprzednie eventy
 
+Meet.js
 2015.10.05 18:00
 miejsce: biurowiec Omega, ul. Dąbrowskiego 79
 
