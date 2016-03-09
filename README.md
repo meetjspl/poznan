@@ -2,12 +2,16 @@
 
 ## Kiedy następny event?
 
-Meet.js React
-2016.01.19 18:00
-miejsce: ul. Grobla 7 
+Meet.js
+2016.03.10 18:00
+miejsce: Collegium Da Vinci ul. gen. Tadeusza Kutrzeby 10
 
 
 ## Poprzednie eventy
+
+Meet.js React
+2016.01.19 18:00
+miejsce: ul. Grobla 7 
 
 Meet.js
 2015.10.05 18:00
