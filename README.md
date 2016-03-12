@@ -4,20 +4,6 @@
 
 Jak uzbieramy prelegentów
 
-## Poprzednie eventy
-
-Meet.js
-2016.03.10 18:00
-miejsce: Collegium Da Vinci ul. gen. Tadeusza Kutrzeby 10
-
-Meet.js React
-2016.01.19 18:00
-miejsce: ul. Grobla 7 
-
-Meet.js
-2015.10.05 18:00
-miejsce: biurowiec Omega, ul. Dąbrowskiego 79
-
 
 ## Zaproponuj temat!
 
@@ -38,3 +24,15 @@ https://github.com/meetjspl/poznan/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclose
 
 Lista spotkań:
 https://github.com/meetjspl/poznan/milestones
+
+Meet.js
+2016.03.10 18:00
+miejsce: Collegium Da Vinci ul. gen. Tadeusza Kutrzeby 10
+
+Meet.js React
+2016.01.19 18:00
+miejsce: ul. Grobla 7 
+
+Meet.js
+2015.10.05 18:00
+miejsce: biurowiec Omega, ul. Dąbrowskiego 79
