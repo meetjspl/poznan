@@ -2,7 +2,7 @@
 
 ## Kiedy następny event?
 
-Jak uzbieramy prelegentów
+Prawdopodobnie 15 czerwca
 
 
 ## Zaproponuj temat!
