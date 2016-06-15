@@ -2,7 +2,7 @@
 
 ## Kiedy następny event?
 
-Prawdopodobnie 15 czerwca
+Jak uzbieramy prelegentów
 
 
 ## Zaproponuj temat!
@@ -24,6 +24,10 @@ https://github.com/meetjspl/poznan/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclose
 
 Lista spotkań:
 https://github.com/meetjspl/poznan/milestones
+
+Meet.js
+2016.06.15 18:00
+miejsce: Uniwersytet SWPS ul. gen. Tadeusza Kutrzeby 10
 
 Meet.js
 2016.03.10 18:00
