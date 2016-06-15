@@ -7,9 +7,11 @@ Jak uzbieramy prelegentów
 
 ## Zaproponuj temat!
 
-Masz pomysł na prelekcję albo warsztaty? Chcesz o czymś opowiedzieć? 
+Masz pomysł na prelekcję albo warsztaty? | *nowość:*  Chcesz opowiedzieć o swoim stacku technologicznym?
+ --- | ---
+Zgłoś temat prelekcji jako `Issue` w tym repo. Napisz o czym chcesz opowiedzieć. |  Zgłoś `Issue` w tym repo zaczynając tytuł od `[stack]` i listę ważniejszych elementów stack-a
+Prelekcja trwa zwykle 20-25 minut + czas na pytania| Opowieści o stackach technologicznych powinny się mieścić w 10 minutach i zawierać informację co się sprawdziło, a co chcesz wymienić
 
-Zgłoś temat prelekcji jako `Issue` w tym repo.
 
 Dzięki temu dowiesz się, które szczegóły zainteresują uczestników.
 Zobaczysz pytania zanim przyjdzie pora odpowiedziec na nie na żywo.
