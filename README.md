@@ -2,8 +2,9 @@
 
 ## Kiedy następny event?
 
-Jak uzbieramy prelegentów
-
+2 Sierpnia 18:00
+miejsce: Uniwersytet SWPS ul. gen. Tadeusza Kutrzeby 10
+(powiedzcie znajomym!)
 
 ## Zaproponuj temat!
 
