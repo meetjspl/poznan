@@ -2,7 +2,7 @@
 
 ## Kiedy następny event?
 
-2 Sierpnia 18:00
+13 Października 18:00
 miejsce: Uniwersytet SWPS ul. gen. Tadeusza Kutrzeby 10
 (powiedzcie znajomym!)
 
@@ -27,6 +27,10 @@ https://github.com/meetjspl/poznan/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclose
 
 Lista spotkań:
 https://github.com/meetjspl/poznan/milestones
+
+Meet.js
+2016.08.02 18:00
+SWPS
 
 Meet.js
 2016.06.15 18:00
