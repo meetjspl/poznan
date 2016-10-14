@@ -8,8 +8,10 @@ Dłuższy i mniej zwięzły tytuł prezentacji
 Do wyboru `x`, `o` i `?`
 
 [x] Live coding - wiadomo dlaczego
+
 [?] Embedded code (typu CodePen, JSFiddle) - myślę, że tu też warto zaproponować jakieś ograniczenia ilości albo sposób
 omówienia tego kodu
+
 [o] zewnętrzne strony do pokazania - linki do sekcji strony to must have, żeby nie marnować czasu na szukanie podczas
 prezentacji; i może screenshot jako fallback?
 
