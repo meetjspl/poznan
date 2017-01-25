@@ -2,9 +2,13 @@
 
 ## Kiedy następny event?
 
-13 Października 18:00
+07 Lutego 18:00
+
 miejsce: Uniwersytet SWPS ul. gen. Tadeusza Kutrzeby 10
+
 (powiedzcie znajomym!)
+
+pod koniec lutego - meet.min.js o webVR (więcej info wkrótce)
 
 ## Zaproponuj temat!
 
@@ -27,6 +31,10 @@ https://github.com/meetjspl/poznan/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclose
 
 Lista spotkań:
 https://github.com/meetjspl/poznan/milestones
+
+Meet.js
+2016.10.13 18:00
+SWPS
 
 Meet.js
 2016.08.02 18:00
