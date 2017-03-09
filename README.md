@@ -2,7 +2,9 @@
 
 ## Kiedy następny event?
 
-pod koniec lutego - meet.min.js o webVR (więcej info wkrótce)
+Meet.min.js VR 17 marca
+
+Zapisy w issues
 
 ## Zaproponuj temat!
 
