@@ -2,9 +2,10 @@
 
 ## Kiedy następny event?
 
-Meet.min.js VR 17 marca
+React Meetup
+28 Marca 
 
-Zapisy w issues
+Budynek Omega na ul. Dąbrowskiego 
 
 ## Zaproponuj temat!
 
@@ -30,6 +31,10 @@ https://github.com/meetjspl/poznan/milestones
 
 Krótkie streszczenia audio:
 https://soundcloud.com/naugtur/
+
+Meet.min.js VR 
+17 marca
+Egnyte Loft 
 
 Meet.js
 2017.02.07 18:00
