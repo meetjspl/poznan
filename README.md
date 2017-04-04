@@ -2,10 +2,7 @@
 
 ## Kiedy następny event?
 
-React Meetup
-28 Marca 
-
-Budynek Omega na ul. Dąbrowskiego 
+Jeszcze zrobimy coś w kwietniu
 
 ## Zaproponuj temat!
 
@@ -31,6 +28,11 @@ https://github.com/meetjspl/poznan/milestones
 
 Krótkie streszczenia audio:
 https://soundcloud.com/naugtur/
+
+
+React Meetup
+28 Marca 
+Omega na ul. Dąbrowskiego 
 
 Meet.min.js VR 
 17 marca
