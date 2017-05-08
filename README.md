@@ -2,7 +2,11 @@
 
 ## Kiedy następny event?
 
-Jeszcze zrobimy coś w kwietniu
+Wtorek 23 Maja 18:00
+
+SWPS / Collegium Da Vinci 
+
+ul. gen. Tadeusza Kutrzeby 10
 
 ## Zaproponuj temat!
 
