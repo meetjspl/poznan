@@ -2,11 +2,7 @@
 
 ## Kiedy następny event?
 
-Wtorek 23 Maja 18:00
-
-SWPS / Collegium Da Vinci 
-
-ul. gen. Tadeusza Kutrzeby 10
+Jak zgłosisz prelekcję
 
 ## Zaproponuj temat!
 
@@ -33,6 +29,9 @@ https://github.com/meetjspl/poznan/milestones
 Krótkie streszczenia audio:
 https://soundcloud.com/naugtur/
 
+Meet.js
+2017.05.23 18:00
+SWPS
 
 React Meetup
 28 Marca 
