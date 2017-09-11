@@ -2,7 +2,10 @@
 
 ## Kiedy następny event?
 
-Jak zgłosisz prelekcję
+React Poznan Meetup by meet.js
+2017.10.13 18:00
+PlusJeden ul. ZaBramką 1
+https://www.meetup.com/meet-js-Pozna%C5%84/events/243268344/
 
 ## Zaproponuj temat!
 
