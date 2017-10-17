@@ -2,13 +2,7 @@
 
 ## Kiedy następny event?
 
-React Poznan Meetup by meet.js
-
-2017.10.13 18:00
-
-PlusJeden ul. ZaBramką 1
-
-https://www.meetup.com/meet-js-Pozna%C5%84/events/243268344/
+Stay tuned!
 
 ## Zaproponuj temat!
 
@@ -34,6 +28,10 @@ https://github.com/meetjspl/poznan/milestones
 
 Krótkie streszczenia audio:
 https://soundcloud.com/naugtur/
+
+React Poznan Meetup by meet.js
+2017.10.13 18:00
+PlusJeden ul. ZaBramką 1
 
 Meet.js
 2017.05.23 18:00
