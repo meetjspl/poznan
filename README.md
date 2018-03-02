@@ -34,6 +34,21 @@ https://github.com/meetjspl/poznan/milestones
 Krótkie streszczenia audio:
 https://soundcloud.com/naugtur/
 
+Profil na meetup.com
+https://www.meetup.com/meet-js-Pozna%C5%84/events/past/
+
+Meet.js Poznań
+2018.01.17 18:00
+PlusJeden ul. ZaBramką 1
+
+Meet.js Poznań
+2017.11.22 18:00
+PlusJeden ul. ZaBramką 1
+
+Meet.js Poznań
+2017.11.22 18:00
+PlusJeden ul. ZaBramką 1
+
 React Poznan Meetup by meet.js
 2017.10.13 18:00
 PlusJeden ul. ZaBramką 1
