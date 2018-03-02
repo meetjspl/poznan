@@ -45,10 +45,6 @@ Meet.js Poznań
 2017.11.22 18:00
 PlusJeden ul. ZaBramką 1
 
-Meet.js Poznań
-2017.11.22 18:00
-PlusJeden ul. ZaBramką 1
-
 React Poznan Meetup by meet.js
 2017.10.13 18:00
 PlusJeden ul. ZaBramką 1
