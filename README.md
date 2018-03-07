@@ -3,7 +3,7 @@
 ## Kiedy następny event?
 
 Meet.js Poznań
-2017.03.02 18:00
+2018.03.02 18:00
 PlusJeden ul. ZaBramką 1
 
 [meetup link](https://www.meetup.com/meet-js-Pozna%C5%84/events/248014706/)
