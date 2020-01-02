@@ -2,11 +2,13 @@
 
 ## Kiedy następny event?
 
-Meet.js Poznań
-2018.03.02 18:00
-PlusJeden ul. ZaBramką 1
+**Meet.js Poznań `#47`**
 
-[meetup link](https://www.meetup.com/meet-js-Pozna%C5%84/events/248014706/)
+**Kiedy:** 2020.01.16, 18:00
+
+**Gdzie:** Plus Jeden, ul. Za Bramką 1
+
+[meetup link](https://www.meetup.com/meet-js-Pozna%C5%84/events/267518997)
 
 
 ## Zaproponuj temat!
