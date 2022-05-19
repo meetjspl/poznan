@@ -2,13 +2,13 @@
 
 ## Kiedy następny event?
 
-**Meet.js Poznań `#47`**
+**Meet.js Poznań `#49`**
 
-**Kiedy:** 2020.01.16, 18:00
+**Kiedy:** wtorek, 31 maja o 18:00
 
-**Gdzie:** Plus Jeden, ul. Za Bramką 1
+**Gdzie:** LabaLand https://www.google.com/maps/dir/?api=1&destination=52.42627%2C16.94543
 
-[meetup link](https://www.meetup.com/meet-js-Pozna%C5%84/events/267518997)
+[meetup link](https://www.meetup.com/meet-js-Poznań/events/286006945)
 
 
 ## Zaproponuj temat!
