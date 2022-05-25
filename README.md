@@ -6,7 +6,7 @@
 
 **Kiedy:** wtorek, 31 maja o 18:00
 
-**Gdzie:** LabaLand https://www.google.com/maps/dir/?api=1&destination=52.42627%2C16.94543
+**Gdzie:** [PlusJeden](https://www.google.com/maps/place/52%C2%B024'22.2%22N+16%C2%B056'11.4%22E/@52.4060902,16.9363995,19.17z/data=!4m5!3m4!1s0x0:0x17dc4107ca796103!8m2!3d52.40616!4d16.9365) ul. Za Bramką 1
 
 [meetup link](https://www.meetup.com/meet-js-Poznań/events/286006945)
 
